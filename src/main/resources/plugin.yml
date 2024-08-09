@@ -1,0 +1,4 @@
+name: ShellCraft
+version: '1.0-SNAPSHOT'
+main: me.salmanyamin.shellCraft.Main
+api-version: '1.18'
